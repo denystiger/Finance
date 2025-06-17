@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d37bc365-0610-41ab-9a0b-0b69854cd202" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/f.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Time Ser Tsay/CFA Time set.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Num methods.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Port opt.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Port Opt/Port opt.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/f.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Statsmodels/PyForSci.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +28,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/denystiger/Finance.git",
+    "accountId": "5a915787-7284-4d35-8157-cadd74a397b2"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -31,28 +42,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/macbook/Documents/MYSpace/FinPy",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "vcs.Git",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/macbook/Documents/MYSpace/FinPy/Statsmodels&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "Jupyter"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Jupyter&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Statsmodels" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Num" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Advances In Finance" />
     </key>
@@ -122,6 +139,18 @@
       <workItem from="1749210107246" duration="442000" />
       <workItem from="1749255275488" duration="282000" />
       <workItem from="1749256614473" duration="24268000" />
+      <workItem from="1749546247316" duration="1640000" />
+      <workItem from="1749548713299" duration="64000" />
+      <workItem from="1749548833440" duration="3364000" />
+      <workItem from="1749771059979" duration="6948000" />
+      <workItem from="1749806730814" duration="5804000" />
+      <workItem from="1749895506779" duration="6887000" />
+      <workItem from="1749942425430" duration="6239000" />
+      <workItem from="1749987745279" duration="18052000" />
+      <workItem from="1750072723739" duration="5126000" />
+      <workItem from="1750115708962" duration="131000" />
+      <workItem from="1750125519102" duration="10007000" />
+      <workItem from="1750162397497" duration="330000" />
     </task>
     <servers />
   </component>
@@ -140,6 +169,11 @@
           <url>file://$PROJECT_DIR$/PORT OPT BOOK/Notebook2.ipynb</url>
           <line>553</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/Statsmodels/PyForSci.ipynb</url>
+          <line>464</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/main.py</url>
