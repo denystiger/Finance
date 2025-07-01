@@ -4,13 +4,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d37bc365-0610-41ab-9a0b-0b69854cd202" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Time Ser Tsay/CFA Time set.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="d37bc365-0610-41ab-9a0b-0b69854cd202" name="Changes" comment="Notebooks and datasets">
+      <change afterPath="$PROJECT_DIR$/Anvances in Finance ML/Spy dataset.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bayes/Bayes.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CFA.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cookbook/1 Finance.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/Linked list.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DerPy/BSM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DerPy/BSM_greeks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DerPy/Ch 5.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eff Py/1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kaggle chalanges/store-sales-time-series-forecasting/1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object Oriented PY/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object Oriented PY/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object Oriented PY/3 Lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object Oriented PY/Class.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object Oriented PY/Notebook.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object Oriented PY/TV.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object oriented /images/2 Class.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Port Opt/2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Self Projects/Calculator.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Self Projects/Least squares.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Self Projects/Linear regression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Self Projects/Titanic/Notebook.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Self Projects/Titanic/gender_submission.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Self Projects/Titanic/test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Self Projects/Titanic/train.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Statsmodels/Bayes Stats.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/titanic/gender_submission.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/titanic/test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/titanic/train.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Num methods.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Port opt.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Port Opt/Port opt.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/f.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Statsmodels/PyForSci.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anvances in Finance ML/3LABAING.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Anvances in Finance ML/3LABAING.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ML /12 Custom Models.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ML /Classification.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ML /Dim reduction.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ML /SVM.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ML /images/13 Loading and Preprocessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Anvances in Finance ML/Sample Weights.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ML /images/Data import and preprocessing.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ML /images/classification/some_digit_plot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Num/numerical.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Num/numerical.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Port Opt/Port opt.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Port Opt/Port opt.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Statsmodels/PyForSci.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Statsmodels/PyForSci.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,14 +61,25 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/denystiger/Finance.git",
-    "accountId": "5a915787-7284-4d35-8157-cadd74a397b2"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;denystiger&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/denystiger/Finance.git&quot;,
+    &quot;accountId&quot;: &quot;5a915787-7284-4d35-8157-cadd74a397b2&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -45,17 +91,18 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.main.executor&quot;: &quot;Debug&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/macbook/Documents/MYSpace/FinPy/Statsmodels&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;try&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/macbook/Documents/MYSpace/FinPy/Self Projects/Titanic&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Jupyter Settings&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -66,12 +113,17 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Self Projects/Titanic" />
+      <recent name="$PROJECT_DIR$/Self Projects" />
+      <recent name="$PROJECT_DIR$/Anvances in Finance ML" />
       <recent name="$PROJECT_DIR$/Statsmodels" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Num" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/Advances In Finance" />
+      <recent name="$PROJECT_DIR$/Self Projects/Titanic" />
+      <recent name="$PROJECT_DIR$/\" />
+      <recent name="$PROJECT_DIR$/ML " />
+      <recent name="$PROJECT_DIR$/Kaggle chalanges" />
+      <recent name="$PROJECT_DIR$/Eff Py" />
     </key>
   </component>
   <component name="RunManager">
@@ -150,12 +202,45 @@
       <workItem from="1750072723739" duration="5126000" />
       <workItem from="1750115708962" duration="131000" />
       <workItem from="1750125519102" duration="10007000" />
-      <workItem from="1750162397497" duration="330000" />
+      <workItem from="1750162397497" duration="638000" />
+      <workItem from="1750202258656" duration="26970000" />
+      <workItem from="1750380731127" duration="14329000" />
+      <workItem from="1750482659729" duration="5239000" />
+      <workItem from="1750498432525" duration="18456000" />
+      <workItem from="1750659842143" duration="4107000" />
+      <workItem from="1750673911728" duration="12132000" />
+      <workItem from="1750775372586" duration="6221000" />
+      <workItem from="1750936118032" duration="2909000" />
+      <workItem from="1750953324736" duration="30296000" />
+      <workItem from="1751081744336" duration="23531000" />
+      <workItem from="1751245445199" duration="4383000" />
+      <workItem from="1751255208710" duration="21730000" />
     </task>
+    <task id="LOCAL-00001" summary="Notebooks and datasets">
+      <option name="closed" value="true" />
+      <created>1750162790715</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1750162790715</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Notebooks and datasets">
+      <option name="closed" value="true" />
+      <created>1750162816207</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1750162816207</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Notebooks and datasets" />
+    <option name="LAST_COMMIT_MESSAGE" value="Notebooks and datasets" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -170,11 +255,6 @@
           <line>553</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/Statsmodels/PyForSci.ipynb</url>
-          <line>464</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/main.py</url>
           <line>8</line>
@@ -182,5 +262,8 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FinPy$main.coverage" NAME="main Coverage Results" MODIFIED="1751010482182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
