@@ -5,47 +5,65 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d37bc365-0610-41ab-9a0b-0b69854cd202" name="Changes" comment="Notebooks and datasets">
-      <change afterPath="$PROJECT_DIR$/Anvances in Finance ML/Spy dataset.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bayes/Bayes.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CFA.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cookbook/1 Finance.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Structures/Linked list.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DerPy/BSM.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DerPy/BSM_greeks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DerPy/Ch 5.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Eff Py/1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kaggle chalanges/store-sales-time-series-forecasting/1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object Oriented PY/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object Oriented PY/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object Oriented PY/3 Lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object Oriented PY/Class.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object Oriented PY/Notebook.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object Oriented PY/TV.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object oriented /images/2 Class.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Port Opt/2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Self Projects/Calculator.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Self Projects/Least squares.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Self Projects/Linear regression.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Self Projects/Titanic/Notebook.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Self Projects/Titanic/gender_submission.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Self Projects/Titanic/test.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Self Projects/Titanic/train.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Statsmodels/Bayes Stats.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/titanic/gender_submission.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/titanic/test.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/titanic/train.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Finance/Cookbook Finance/2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Finance/DerPy/Toots.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ML/Advances_in_Finance_ML/21 Multiprcess.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ML/Advances_in_Finance_ML/4 Sample Weights.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ML/Advances_in_Finance_ML/First model for classification.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ML/Advances_in_Finance_ML/Multiprocessing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Num/Port Opt/2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Num/Port Opt/3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prob/Bayes/Bayes.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Time Ser Tsay/Code.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Time Ser Tsay/d.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Time Ser Tsay/spain_energy_market.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anvances in Finance ML/3LABAING.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Anvances in Finance ML/3LABAING.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML /12 Custom Models.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML /Classification.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML /Dim reduction.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML /SVM.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML /images/13 Loading and Preprocessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Anvances in Finance ML/Sample Weights.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML /images/Data import and preprocessing.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML /images/classification/some_digit_plot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Num/numerical.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Num/numerical.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Port Opt/Port opt.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Port Opt/Port opt.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Statsmodels/PyForSci.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Statsmodels/PyForSci.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anvances in Finance ML/1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ML/Advances_in_Finance_ML/1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anvances in Finance ML/3LABAING.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ML/Advances_in_Finance_ML/3LABAING.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anvances in Finance ML/Electric_Production.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ML/Advances_in_Finance_ML/Electric_Production.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anvances in Finance ML/Sample Weights.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anvances in Finance ML/Spy dataset.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ML/Advances_in_Finance_ML/Spy dataset.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bayes/Bayes.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CFA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Time Ser Tsay/CFA.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Document handling/Python preprocessing.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cookbook/1 Finance.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Finance/Cookbook Finance/1 Finance.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures/Linked list.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSt1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Time Ser Tsay/DataSt1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DerPy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Time Ser Tsay/DerPy.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DerPy/BSM.py" beforeDir="false" afterPath="$PROJECT_DIR$/Finance/DerPy/BSM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DerPy/BSM_greeks.py" beforeDir="false" afterPath="$PROJECT_DIR$/Finance/DerPy/BSM_greeks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DerPy/Ch 5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Finance/DerPy/Ch 5.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kaggle chalanges/store-sales-time-series-forecasting/1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Self Projects/store-sales-time-series-forecasting/1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lott_S_F_,_Phillips_D_Python_Object_Oriented_Programming,_4th_Edition.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object Oriented PY/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Object Oriented PY/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object Oriented PY/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Object Oriented PY/2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object Oriented PY/3 Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Object Oriented PY/3 Lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object Oriented PY/Class.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Object Oriented PY/Class.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object Oriented PY/Notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Object Oriented PY/Notebook.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object Oriented PY/TV.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Object Oriented PY/TV.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object oriented /1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object oriented /images/2 Class.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object oriented /images/Lott_S_F_,_Phillips_D_Python_Object_Oriented_Programming,_4th_Edition.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object oriented /images/Num methods.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object oriented /images/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object oriented /images/learning-python-5th-edition-5th-edition-9781449355739-1071081101-1449355730_compress.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object oriented /images/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object oriented /images/the-algorithmic-designer-designing-trading-strategies-with-python-a-comprehensive-guide-for-2024.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object oriented /images/ziadost-o-udelenie-vodicskeho-opravnenia.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pandas/Pandas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Pandas/Pandas.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pandas/mydata.sqlaite" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Pandas/mydata.sqlaite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Port Opt/2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Port Opt/Port opt.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Num/Port Opt/Port opt.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/daily-minimum-temperatures-in-me.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/monthly-beer-production-in-austr.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/sales-of-shampoo-over-a-three-ye.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/d.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Eff Py/3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-oriented-python-9781718502062-9781718502079.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/the-algorithmic-designer-designing-trading-strategies-with-python-a-comprehensive-guide-for-2024.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/titanic/gender_submission.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/titanic/test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/titanic/train.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ziadost-o-udelenie-vodicskeho-opravnenia.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,18 +109,21 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Multiprocessing and Vectorazation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Multiprocessing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Toots.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Debug&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;try&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/macbook/Documents/MYSpace/FinPy/Self Projects/Titanic&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/macbook/Documents/MYSpace/FinPy/Time Ser Tsay&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Jupyter Settings&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.smartKeys&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -113,20 +134,44 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Time Ser Tsay" />
       <recent name="$PROJECT_DIR$/Self Projects/Titanic" />
       <recent name="$PROJECT_DIR$/Self Projects" />
       <recent name="$PROJECT_DIR$/Anvances in Finance ML" />
       <recent name="$PROJECT_DIR$/Statsmodels" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Self Projects/Titanic" />
-      <recent name="$PROJECT_DIR$/\" />
-      <recent name="$PROJECT_DIR$/ML " />
-      <recent name="$PROJECT_DIR$/Kaggle chalanges" />
-      <recent name="$PROJECT_DIR$/Eff Py" />
+      <recent name="$PROJECT_DIR$/Prob" />
+      <recent name="$PROJECT_DIR$/Time Ser Tsay" />
+      <recent name="$PROJECT_DIR$/Self Projects" />
+      <recent name="$PROJECT_DIR$/Num" />
+      <recent name="$PROJECT_DIR$/Basics" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.main">
+    <configuration name="Multiprocessing and Vectorazation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FinPy" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advances in Finance ML" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advances in Finance ML/Multiprocessing and Vectorazation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="FinPy" />
       <option name="ENV_FILES" value="" />
@@ -150,6 +195,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Multiprocessing and Vectorazation" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -215,6 +265,9 @@
       <workItem from="1751081744336" duration="23531000" />
       <workItem from="1751245445199" duration="4383000" />
       <workItem from="1751255208710" duration="21730000" />
+      <workItem from="1751540283842" duration="15924000" />
+      <workItem from="1751625730259" duration="10123000" />
+      <workItem from="1751670956053" duration="28961000" />
     </task>
     <task id="LOCAL-00001" summary="Notebooks and datasets">
       <option name="closed" value="true" />
@@ -238,6 +291,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Notebooks and datasets" />
     <option name="LAST_COMMIT_MESSAGE" value="Notebooks and datasets" />
@@ -255,6 +319,16 @@
           <line>553</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/Num/Port Opt/2.ipynb</url>
+          <line>74</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/Num/Port Opt/2.ipynb</url>
+          <line>287</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/main.py</url>
           <line>8</line>
@@ -264,6 +338,9 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FinPy$Multiprocessing.coverage" NAME="Multiprocessing Coverage Results" MODIFIED="1751418880337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advances_in_Finance_ML" />
+    <SUITE FILE_PATH="coverage/FinPy$Multiprocessing_and_Vectorazation.coverage" NAME="Multiprocessing and Vectorazation Coverage Results" MODIFIED="1751418419784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advances in Finance ML" />
+    <SUITE FILE_PATH="coverage/FinPy$Toots.coverage" NAME="Toots Coverage Results" MODIFIED="1751448423662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DerPy" />
     <SUITE FILE_PATH="coverage/FinPy$main.coverage" NAME="main Coverage Results" MODIFIED="1751010482182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
